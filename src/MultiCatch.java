@@ -7,7 +7,7 @@ public class MultiCatch {
 
         try {
             int result = a / b; // сгенерировать исключение типа ArithmeticException
-            vals[10] = 19;
+            // vals[10] = 19;
             /*
             сгенерировать исключение
             типа ArrayIndexOutOfBoundsException
